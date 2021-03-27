@@ -2,3 +2,6 @@
 	path = Detours
 	url = https://github.com/microsoft/Detours.git
 	branch = 8cbb9e2b822d96d534400da915a5dc258ab65a9a
+[submodule "AnalyzerGui"]
+	path = AnalyzerGui
+	url = https://github.com/MV-shallow/AnalyzerGui.git
